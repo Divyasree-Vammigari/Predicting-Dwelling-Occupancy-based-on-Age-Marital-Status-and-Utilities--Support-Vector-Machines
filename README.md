@@ -1,4 +1,4 @@
-This project is used to predict the dwelling occupancy in order to know whether it is owned or 
+This project is to predict the dwelling occupancy in order to know whether it is owned or 
 rented property based on the factors such as age, vehicles, marital status and utilities bills. The data 
 for this research is collected from Washington State data collected from US Census has more than 
 70000 columns. For analyzing the data Support Vector Machine with different methods like Linear, 
